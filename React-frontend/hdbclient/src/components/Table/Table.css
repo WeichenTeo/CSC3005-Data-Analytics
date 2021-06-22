@@ -1,0 +1,21 @@
+.tableStyle {
+  text-align: center;
+  background: #06adb3;
+}
+
+.tableStyle tbody {
+  background: rgb(55, 241, 229);
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.td,
+.th {
+  border: 1px solid rgb(2, 2, 2);
+  text-align: left;
+  padding: 8px;
+}
